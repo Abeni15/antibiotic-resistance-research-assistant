@@ -1,0 +1,484 @@
+{
+  "question": "What are the limitations of methods used to detect antibiotic resistance?",
+  "plan": {
+    "subquestions": [
+      "What are the limitations of methods used to detect antibiotic resistance?"
+    ],
+    "queries": [
+      "\"Escherichia coli\" antibiotic resistance \"antimicrobial susceptibility testing\"",
+      "\"Escherichia coli\" antibiotic resistance \"resistance detection diagnostics\"",
+      "\"Escherichia coli\" antibiotic resistance \"phenotypic genotypic resistance\""
+    ]
+  },
+  "queries": [
+    "\"Escherichia coli\" antibiotic resistance \"antimicrobial susceptibility testing\"",
+    "\"Escherichia coli\" antibiotic resistance \"resistance detection diagnostics\"",
+    "\"Escherichia coli\" antibiotic resistance \"phenotypic genotypic resistance\""
+  ],
+  "papers": [
+    {
+      "pmid": "40929873",
+      "title": "Assessment of seasonality in antimicrobial susceptibility testing and resistance of urinary Escherichia coli from dogs and cats in the United States (2019 - 2022).",
+      "authors": [
+        "Rasaq A Ojasanya",
+        "J Scott Weese",
+        "Kurtis E Sobkowich",
+        "Anne Deckert",
+        "Donald Szlosek",
+        "Andy Plum",
+        "Theresa M Bernardo",
+        "Zvonimir Poljak"
+      ],
+      "year": "2025",
+      "journal": "Preventive veterinary medicine",
+      "abstract": "Antimicrobial resistance (AMR) poses a significant global health challenge, impacting humans, animals, and the environment. Dogs and cats are vulnerable to urinary tract infections (UTIs), mostly caused by antimicrobial-resistant Escherichia coli, necessitating antimicrobial susceptibility testing (AST) for optimal treatment. This study investigated and evaluated the seasonality of AST and AMR in urinary E. coli isolates from dogs and cats in the USA and evaluated the potential influence of climatic zones on these patterns. Retrospective data from IDEXX Laboratories, from January 2019 to December 2022, were analyzed. The dataset included 344,862 urinary E. coli isolates (74.2 % from dogs, 25.8 % from cats) tested against seven antimicrobials. Linear regression and negative binomial regression models assessed seasonality and trends, accounting for climatic zone variability. An increasing trend in AST was observed, with a seasonal peak in the summer for both species. Urinary E. coli isolates from dogs and cats had the highest resistance to amoxicillin at 27.9 % (95 % CI: 27.7-28.1) and 28.4 % (95 % CI: 28.1-28.7), respectively, among all antimicrobials tested. Resistance rates significantly declined (p < .01) for all drugs tested in dogs, while in cats, declines were significant only for cefovecin, marbofloxacin, and enrofloxacin. No seasonality in AMR was found at the national level or across climatic zones, though AMR rates varied significantly by climatic zone (p < .01). The hot-humid zone had the highest resistance rates but the lowest AST rates per one million dogs and cats. Seasonality in AST suggests a seasonal pattern for UTIs; however, no seasonal pattern in AMR could be observed nationally or regionally for urinary E. coli isolates.",
+      "doi": "10.1016/j.prevetmed.2025.106684",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40929873/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"antimicrobial susceptibility testing\"",
+      "retrieved_at": "2026-10-26T11:12:01.056054+00:00"
+    },
+    {
+      "pmid": "29431523",
+      "title": "Molecular diagnosis of antimicrobial resistance in Escherichia coli.",
+      "authors": [
+        "Molly E Fleece",
+        "Suporn Pholwat",
+        "Amy J Mathers",
+        "Eric R Houpt"
+      ],
+      "year": "2018",
+      "journal": "Expert review of molecular diagnostics",
+      "abstract": "Antimicrobial resistance is a growing global public health threat. The complexities of antimicrobial resistance in gram-negative bacteria such as Escherichia coli pose significant diagnostic and therapeutic challenges. Molecular diagnostics are emerging in this field. Areas covered: The authors review the clinical importance of pathogenic E. coli and discuss the mechanisms of resistance to common antibiotics used to treat these infections. We review the literature on antimicrobial susceptibility testing and discuss the current state of phenotypic as well as molecular methodologies. Clinical vignettes are presented to highlight how molecular diagnostics may be used for patient care. Expert commentary: The future use of molecular diagnostics for detection of antimicrobial resistance will be tailored to the context, whether hospital epidemiology, infection control, antibiotic stewardship, or clinical care. Further clinical research is needed to understand how to best apply molecular diagnostics to these settings.",
+      "doi": "10.1080/14737159.2018.1439381",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/29431523/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"antimicrobial susceptibility testing\"",
+      "retrieved_at": "2026-10-26T11:12:01.056054+00:00"
+    },
+    {
+      "pmid": "35237012",
+      "title": "Observational study on antimicrobial resistance in Escherichia coli and Salmonella isolates from Ontario calf samples submitted to a diagnostic laboratory from 2007 to 2020.",
+      "authors": [
+        "Tamaki Uyama",
+        "David Renaud",
+        "Stephen LeBlanc",
+        "J McClure",
+        "Durda Slavic",
+        "Charlotte Winder",
+        "David Kelton"
+      ],
+      "year": "2022",
+      "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+      "abstract": "The objectives of this study were to i) describe Escherichia coli and Salmonella isolates; ii) investigate the temporal trends in antimicrobial resistance (AMR) profiles; and iii) evaluate the impact of season and age on these AMR profiles from diagnostic and post-mortem samples in Ontario calves ≤ 2-months-old submitted from 2007 to 2020 to the Animal Health Laboratory in Guelph, Ontario, Canada. Antimicrobial susceptibility testing results were measured by the Kirby-Bauer disk diffusion method. A total of 1291 isolates with AMR profiles were obtained from calves, with E. coli (n = 434) and Salmonella (n = 378) being the most common bacteria characterized for AMR. For E. coli, 79% of isolates tested showed a positive result in F5/K99, whereas for Salmonella isolates, S. Typhimurium (33%) and S. Dublin (22%) were the 2 most common serotypes identified. Multivariable logistic regression models were built to evaluate AMR profiles for E. coli (n = 414) and Salmonella (n = 357) to each antimicrobial tested. Most E. coli isolates (91%) and Salmonella isolates (97%) were resistant to at least one of the antimicrobials tested. In general, E. coli and Salmonella had higher odds of resistance in calves aged ≥ 2 wk compared to 1-week-old calves, and little difference was seen in the level of resistance over the years observed or between seasons in most of the antimicrobials tested. Prospective research should investigate potential risk factors for the development of AMR in calves examples being antimicrobial use and farm management practices.",
+      "doi": "",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35237012/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"antimicrobial susceptibility testing\"",
+      "retrieved_at": "2026-10-26T11:12:01.056054+00:00"
+    },
+    {
+      "pmid": "35616398",
+      "title": "Rapid Detection of MCR-Mediated Colistin Resistance in Escherichia coli.",
+      "authors": [
+        "Haijie Zhang",
+        "Feiyu Yu",
+        "Xiaoyu Lu",
+        "Yan Li",
+        "Daxin Peng",
+        "Zhiqiang Wang",
+        "Yuan Liu"
+      ],
+      "year": "2022",
+      "journal": "Microbiology spectrum",
+      "abstract": "Colistin is one of the last-resort antibiotics for infections caused by multidrug-resistant Gram-negative bacteria. However, the wide spread of novel plasmid-carrying colistin resistance genes mcr-1 and its variants substantially compromise colistin's therapeutic effectiveness and pose a severe danger to public health. To detect colistin-resistant microorganisms induced by mcr genes, rapid and reliable antibiotic susceptibility testing (AST) is imminently needed. In this study, we identified an RNA-based AST (RBAST) to discriminate between colistin-susceptible and mcr-1-mediated colistin-resistant bacteria. After short-time colistin treatment, RBAST can detect differentially expressed RNA biomarkers in bacteria. Those candidate mRNA biomarkers were successfully verified within colistin exposure temporal shifts, concentration shifts, and other mcr-1 variants. Furthermore, a group of clinical strains were effectively distinguished by using the RBAST approach during the 3-h test duration with over 93% accuracy. Taken together, our findings imply that certain mRNA transcripts produced in response to colistin treatment might be useful indicators for the development of fast AST for mcr-positive bacteria. IMPORTANCE The emergence and prevalence of mcr-1 and its variants in humans, animals, and the environment pose a global public health threat. There is a pressing urgency to develop rapid and accurate methods to identify MCR-positive colistin-resistant bacteria in the clinical samples, providing a basis for subsequent effective antibiotic treatment. Using the specific mRNA signatures, we develop an RNA-based antibiotic susceptibility testing (RBAST) for effectively distinguishing colistin-susceptible and mcr-1-mediated colistin-resistant strains. Meanwhile, the detection efficiency of these RNA biomarkers was evidenced in other mcr variants-carrying strains. By comparing with the traditional AST method, the RBAST method was verified to successfully characterize a set of clinical isolates during 3 h assay time with over 93% accuracy. Our study provides a feasible method for the rapid detection of colistin-resistant strains in clinical practice.",
+      "doi": "10.1128/spectrum.00920-22",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35616398/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"resistance detection diagnostics\"",
+      "retrieved_at": "2026-10-26T11:12:18.461609+00:00"
+    },
+    {
+      "pmid": "32955987",
+      "title": "Antibiotic Resistance Patterns and mcr-1 Detection in Avian Pathogenic Escherichia coli Isolates from Commercial Layer and Layer Breeder Flocks Demonstrating Colibacillosis in Greece.",
+      "authors": [
+        "Dimitrios Koutsianos",
+        "Labrini V Athanasiou",
+        "Tilemachos Dimitriou",
+        "Marios Nikolaidis",
+        "Christina Tsadila",
+        "Grigorios Amoutzias",
+        "Dimitris Mossialos",
+        "Konstantinos C Koutoulis"
+      ],
+      "year": "2021",
+      "journal": "Microbial drug resistance (Larchmont, N.Y.)",
+      "abstract": "Objectives: The aim of this study was to investigate the antimicrobial resistance (AMR) patterns of Escherichia coli strains isolated from poultry flocks suffering from colibacillosis in Greece and to detect the presence of the mcr-1 gene in isolates being phenotypically resistant to colistin. Results: A total of 150 E. coli strains were isolated from commercial layers and layer breeder flocks in Greece and tested for antimicrobial susceptibility. A high level of susceptibility was revealed for cephalosporins, neomycin, and colistin. Susceptibility varied for other antimicrobials (tetracycline, doxycycline, lincospectin, trimethoprim/sulfamethoxazole, enrofloxacin, amoxicillin), whereas no susceptibility was reported for macrolides, tiamulin, lincomycin, oxacillin. Concerning colistin resistance, 20 E. coli strains were found to be phenotypically resistant (13 strains showed intermediate resistance pattern and 7 strains fully resistance trait). Further investigation was performed by PCR, which has revealed the presence of the mcr-1 gene in one phenotypically colistin-resistant isolate. Conclusion: AMR is prevalent in layer poultry production, including resistance against colistin confirmed by the presence of the mcr-1 gene.",
+      "doi": "10.1089/mdr.2020.0057",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32955987/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"resistance detection diagnostics\"",
+      "retrieved_at": "2026-10-26T11:12:18.461609+00:00"
+    },
+    {
+      "pmid": "31243989",
+      "title": "Detection of \"Hidden\" Antimicrobial Drug Resistance.",
+      "authors": [
+        "Qingfeng Hu",
+        "Yan Yu",
+        "Dongshi Gu",
+        "Li Xie",
+        "Xingrou Chen",
+        "Ning Xu",
+        "Jennifer Jin Ruan",
+        "Christopher Dowson",
+        "Benfang Helen Ruan"
+      ],
+      "year": "2019",
+      "journal": "ACS infectious diseases",
+      "abstract": "Antimicrobial drug resistance has become a serious public health problem. The current clinical diagnostic methods are turbidity-based assays that have been used for years to track bacterial growth; however, the method is relatively insensitive. To eliminate the new occurrence of drug resistance in infectious bacteria, we developed a highly sensitive EZMTT method for the antibiotic susceptibility test (AST) that magnified the cell growth signal and revealed partial drug resistance (showing 2-20% weak cell growth) that was not detected by the current turbidity assay within 24 h. By simply mixing the EZMTT dye with the bacterial culture and then following the growth by absorbance measurement at 450 nm, the drug-induced proliferation (DIP) rate can be obtained in a high-throughput-screening (HTS) mode with greater than 10-fold better sensitivity than the turbidity assay. The EZMTT-based DIP rate assay of 5 clinically isolated E. coli strains found approximately 30% more partial drug resistance than what was detected in the traditional turbidity-based assay. The observed partial drug resistance was further confirmed by mechanistic analyses. Therefore, a combination of the EZMTT dye and the current clinically used VITEK-type technology has great potential to help understand antimicrobial drug resistance and ultimately provide patients with precise medical care to prevent the occurrence of multidrug resistant bacteria.",
+      "doi": "10.1021/acsinfecdis.9b00132",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31243989/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"resistance detection diagnostics\"",
+      "retrieved_at": "2026-10-26T11:12:18.461609+00:00"
+    },
+    {
+      "pmid": "24053020",
+      "title": "The phenotypic and genotypic characteristics of antibiotic resistance in Escherichia coli populations isolated from farm animals with different exposure to antimicrobial agents.",
+      "authors": [
+        "Justyna Mazurek",
+        "Paweł Pusz",
+        "Ewa Bok",
+        "Michał Stosik",
+        "Katarzyna Baldy-Chudzik"
+      ],
+      "year": "2013",
+      "journal": "Polish journal of microbiology",
+      "abstract": "The aim of the study was to determine the influence of the presence or the absence of antibiotic input on the emergence and maintenance of resistance in commensal bacteria from food producing animals. The research material constituted E. coli isolates from two animal species: swine at different age from one conventional pig farm with antibiotic input in young pigs and from beef and dairy cattle originated from organic breeding farm. The sensitivity to 16 antimicrobial agents was tested, and the presence of 15 resistance genes was examined. In E. coli from swine, the most prevalent resistance was resistance to streptomycin (88.3%), co-trimoxazole (78.8%), tetracycline (57.3%) ampicillin (49.3%) and doxycycline (44.9%) with multiple resistance in the majority. The most commonly observed resistance genes were: bla(TEM) (45.2%), tetA (35.8%), aadA1 (35.0%), sul3 (29.5%), dfrA1 (20.4%). Differences in phenotypes and genotypes of E. coli between young swine undergoing prevention program and the older ones without the antibiotic pressure occurred. A disparate resistance was found in E. coli from cattle: cephalothin (36.9%), cefuroxime (18.9%), doxycycline (8.2%), nitrofurantoin (7.7%), and concerned mainly dairy cows. Among isolates from cattle, multidrug resistance was outnumbered by resistance to one or two antibiotics and the only found gene markers were: bla(SHV), (3.4%), tetA (1.29%), bla(TEM) (0.43%) and tetC (0.43%). The presented outcomes provide evidence that antimicrobial pressure contributes to resistance development, and enteric microflora constitutes an essential reservoir of resistance genes.",
+      "doi": "",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/24053020/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"phenotypic genotypic resistance\"",
+      "retrieved_at": "2026-10-26T11:12:20.613181+00:00"
+    },
+    {
+      "pmid": "31214796",
+      "title": "Phenotypic screening for quinolone resistance in Escherichia coli.",
+      "authors": [
+        "Linus Dellgren",
+        "Carina Claesson",
+        "Marie Högdahl",
+        "Jon Forsberg",
+        "Håkan Hanberger",
+        "Lennart E Nilsson",
+        "Anita Hällgren"
+      ],
+      "year": "2019",
+      "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+      "abstract": "Recent studies show that rectal colonization with low-level ciprofloxacin-resistant Escherichia coli (ciprofloxacin minimal inhibitory concentration (MIC) above the epidemiological cutoff point, but below the clinical breakpoint for resistance), i.e., in the range > 0.06-0.5 mg/L is an independent risk factor for febrile urinary tract infection after transrectal ultrasound-guided biopsy (TRUS-B) of the prostate, adding to the other risk posed by established ciprofloxacin resistance in E. coli (MIC > 0.5 mg/L) as currently defined. We aimed to identify the quinolone that by disk diffusion best discriminates phenotypic wild-type isolates (ciprofloxacin MIC ≤ 0.06 mg/L) of E. coli from isolates with acquired resistance, and to determine the resistance genotype of each isolate. The susceptibility of 108 E. coli isolates was evaluated by ciprofloxacin, levofloxacin, moxifloxacin, nalidixic acid, and pefloxacin disk diffusion and correlated to ciprofloxacin MIC (broth microdilution) using EUCAST methodology. Genotypic resistance was identified by PCR and DNA sequencing. The specificity was 100% for all quinolone disks. Sensitivity varied substantially, as follows: ciprofloxacin 59%, levofloxacin 46%, moxifloxacin 59%, nalidixic acid 97%, and pefloxacin 97%. We suggest that in situations where low-level quinolone resistance might be of importance, such as when screening for quinolone resistance in fecal samples pre-TRUS-B, a pefloxacin (S ≥ 24 mm) or nalidixic acid (S ≥ 19 mm) disk, or a combination of the two, should be used. In a setting where plasmid-mediated resistance is prevalent, pefloxacin might perform better than nalidixic acid.",
+      "doi": "10.1007/s10096-019-03608-w",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31214796/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"phenotypic genotypic resistance\"",
+      "retrieved_at": "2026-10-26T11:12:20.613181+00:00"
+    },
+    {
+      "pmid": "32780112",
+      "title": "ResFinder 4.0 for predictions of phenotypes from genotypes.",
+      "authors": [
+        "Valeria Bortolaia",
+        "Rolf S Kaas",
+        "Etienne Ruppe",
+        "Marilyn C Roberts",
+        "Stefan Schwarz",
+        "Vincent Cattoir",
+        "Alain Philippon",
+        "Rosa L Allesoe",
+        "Ana Rita Rebelo",
+        "Alfred Ferrer Florensa",
+        "Linda Fagelhauer",
+        "Trinad Chakraborty",
+        "Bernd Neumann",
+        "Guido Werner",
+        "Jennifer K Bender",
+        "Kerstin Stingl",
+        "Minh Nguyen",
+        "Jasmine Coppens",
+        "Basil Britto Xavier",
+        "Surbhi Malhotra-Kumar",
+        "Henrik Westh",
+        "Mette Pinholt",
+        "Muna F Anjum",
+        "Nicholas A Duggett",
+        "Isabelle Kempf",
+        "Suvi Nykäsenoja",
+        "Satu Olkkola",
+        "Kinga Wieczorek",
+        "Ana Amaro",
+        "Lurdes Clemente",
+        "Joël Mossong",
+        "Serge Losch",
+        "Catherine Ragimbeau",
+        "Ole Lund",
+        "Frank M Aarestrup"
+      ],
+      "year": "2020",
+      "journal": "The Journal of antimicrobial chemotherapy",
+      "abstract": "WGS-based antimicrobial susceptibility testing (AST) is as reliable as phenotypic AST for several antimicrobial/bacterial species combinations. However, routine use of WGS-based AST is hindered by the need for bioinformatics skills and knowledge of antimicrobial resistance (AMR) determinants to operate the vast majority of tools developed to date. By leveraging on ResFinder and PointFinder, two freely accessible tools that can also assist users without bioinformatics skills, we aimed at increasing their speed and providing an easily interpretable antibiogram as output. The ResFinder code was re-written to process raw reads and use Kmer-based alignment. The existing ResFinder and PointFinder databases were revised and expanded. Additional databases were developed including a genotype-to-phenotype key associating each AMR determinant with a phenotype at the antimicrobial compound level, and species-specific panels for in silico antibiograms. ResFinder 4.0 was validated using Escherichia coli (n = 584), Salmonella spp. (n = 1081), Campylobacter jejuni (n = 239), Enterococcus faecium (n = 106), Enterococcus faecalis (n = 50) and Staphylococcus aureus (n = 163) exhibiting different AST profiles, and from different human and animal sources and geographical origins. Genotype-phenotype concordance was ≥95% for 46/51 and 25/32 of the antimicrobial/species combinations evaluated for Gram-negative and Gram-positive bacteria, respectively. When genotype-phenotype concordance was <95%, discrepancies were mainly linked to criteria for interpretation of phenotypic tests and suboptimal sequence quality, and not to ResFinder 4.0 performance. WGS-based AST using ResFinder 4.0 provides in silico antibiograms as reliable as those obtained by phenotypic AST at least for the bacterial species/antimicrobial agents of major public health relevance considered.",
+      "doi": "10.1093/jac/dkaa345",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32780112/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"phenotypic genotypic resistance\"",
+      "retrieved_at": "2026-10-26T11:12:20.613181+00:00"
+    }
+  ],
+  "claims": [
+    {
+      "text": "Retrieved abstract reports: Antimicrobial resistance (AMR) poses a significant global health challenge, impacting humans, animals, and the environment.",
+      "topic": "query term: susceptibility testing",
+      "source_ids": [
+        "40929873"
+      ],
+      "supporting_passages": {
+        "40929873": "Antimicrobial resistance (AMR) poses a significant global health challenge, impacting humans, animals, and the environment."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Antimicrobial resistance is a growing global public health threat.",
+      "topic": "query term: susceptibility testing",
+      "source_ids": [
+        "29431523"
+      ],
+      "supporting_passages": {
+        "29431523": "Antimicrobial resistance is a growing global public health threat."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: The objectives of this study were to i) describe Escherichia coli and Salmonella isolates; ii) investigate the temporal trends in antimicrobial resistance (AMR) profiles; and …",
+      "topic": "query term: susceptibility testing",
+      "source_ids": [
+        "35237012"
+      ],
+      "supporting_passages": {
+        "35237012": "The objectives of this study were to i) describe Escherichia coli and Salmonella isolates; ii) investigate the temporal trends in antimicrobial resistance (AMR) profiles; and"
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Colistin is one of the last-resort antibiotics for infections caused by multidrug-resistant Gram-negative bacteria.",
+      "topic": "query term: diagnostic",
+      "source_ids": [
+        "35616398"
+      ],
+      "supporting_passages": {
+        "35616398": "Colistin is one of the last-resort antibiotics for infections caused by multidrug-resistant Gram-negative bacteria."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Objectives: The aim of this study was to investigate the antimicrobial resistance (AMR) patterns of Escherichia coli strains isolated from poultry flocks suffering from colibacillosis …",
+      "topic": "query term: diagnostic",
+      "source_ids": [
+        "32955987"
+      ],
+      "supporting_passages": {
+        "32955987": "Objectives: The aim of this study was to investigate the antimicrobial resistance (AMR) patterns of Escherichia coli strains isolated from poultry flocks suffering from colibacillosis"
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Antimicrobial drug resistance has become a serious public health problem.",
+      "topic": "query term: diagnostic",
+      "source_ids": [
+        "31243989"
+      ],
+      "supporting_passages": {
+        "31243989": "Antimicrobial drug resistance has become a serious public health problem."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: The aim of the study was to determine the influence of the presence or the absence of antibiotic input on the emergence and maintenance of …",
+      "topic": "Other retrieved abstract",
+      "source_ids": [
+        "24053020"
+      ],
+      "supporting_passages": {
+        "24053020": "The aim of the study was to determine the influence of the presence or the absence of antibiotic input on the emergence and maintenance of"
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Recent studies show that rectal colonization with low-level ciprofloxacin-resistant Escherichia coli (ciprofloxacin minimal inhibitory concentration (MIC) above the epidemiological cutoff point, but below the clinical …",
+      "topic": "Other retrieved abstract",
+      "source_ids": [
+        "31214796"
+      ],
+      "supporting_passages": {
+        "31214796": "Recent studies show that rectal colonization with low-level ciprofloxacin-resistant Escherichia coli (ciprofloxacin minimal inhibitory concentration (MIC) above the epidemiological cutoff point, but below the clinical"
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    }
+  ],
+  "validation": {
+    "ok": true,
+    "results": [
+      {
+        "claim_index": 0,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "40929873",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 1,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "29431523",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 2,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "35237012",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 3,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "35616398",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 4,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "32955987",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 5,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "31243989",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 6,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "24053020",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 7,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "31214796",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      }
+    ]
+  },
+  "review": "LLM reviewer unavailable: OPENAI_API_KEY is not configured.",
+  "events": [
+    {
+      "agent": "Research Planner",
+      "input": "What are the limitations of methods used to detect antibiotic resistance?",
+      "tools_called": [],
+      "output": "{\"subquestions\": [\"What are the limitations of methods used to detect antibiotic resistance?\"], \"queries\": [\"\\\"Escherichia coli\\\" antibiotic resistance \\\"antimicrobial susceptibility testing\\\"\", \"\\\"Escherichia coli\\\" antibiotic resistance \\\"resistance detection diagnostics\\\"\", \"\\\"Escherichia coli\\\" antibiotic resistance \\\"phenotypic genotypic resistance\\\"\"]}"
+    },
+    {
+      "agent": "Literature Researcher",
+      "input": "['\"Escherichia coli\" antibiotic resistance \"antimicrobial susceptibility testing\"', '\"Escherichia coli\" antibiotic resistance \"resistance detection diagnostics\"', '\"Escherichia coli\" antibiotic resistance \"phenotypic genotypic resistance\"']",
+      "tools_called": [
+        "search_pubmed"
+      ],
+      "output": "9 PubMed records"
+    },
+    {
+      "agent": "Evidence Analyst",
+      "input": "9",
+      "tools_called": [],
+      "output": "8 verbatim abstract passages"
+    },
+    {
+      "agent": "Scientific Reviewer",
+      "input": "8",
+      "tools_called": [
+        "validate_evidence"
+      ],
+      "output": "No model review; credential absent"
+    }
+  ],
+  "llm_used": false,
+  "correction_rounds": 0,
+  "elapsed_seconds": 21.48
+}

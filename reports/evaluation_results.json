@@ -1,0 +1,101 @@
+{
+  "run_date_utc": "2026-10-26T14:13:15.000139+03:00",
+  "mode": "live PubMed; model mode depends on API key",
+  "results": [
+    {
+      "question": "What are the major mechanisms of antibiotic resistance in Escherichia coli?",
+      "completed": true,
+      "papers_retrieved": 12,
+      "relevant_records_selected": null,
+      "selection_note": "No human or automated relevance screening was performed.",
+      "claims_produced": 8,
+      "citation_validation": {
+        "verified": 8,
+        "failed": 0
+      },
+      "unsupported_or_uncertain_claims": 8,
+      "errors": [],
+      "retries": "NCBI request retries are bounded at 3; exact count is not exposed",
+      "approx_seconds": 11.33,
+      "api_usage_or_cost": "Not returned by provider; PubMed API calls are unauthenticated unless NCBI_API_KEY is configured.",
+      "report": "reports/research_20261026_141042.md",
+      "llm_used": false
+    },
+    {
+      "question": "How do beta-lactamase-mediated resistance and reduced drug permeability differ?",
+      "completed": true,
+      "papers_retrieved": 12,
+      "relevant_records_selected": null,
+      "selection_note": "No human or automated relevance screening was performed.",
+      "claims_produced": 8,
+      "citation_validation": {
+        "verified": 8,
+        "failed": 0
+      },
+      "unsupported_or_uncertain_claims": 8,
+      "errors": [],
+      "retries": "NCBI request retries are bounded at 3; exact count is not exposed",
+      "approx_seconds": 25.44,
+      "api_usage_or_cost": "Not returned by provider; PubMed API calls are unauthenticated unless NCBI_API_KEY is configured.",
+      "report": "reports/research_20261026_141054.md",
+      "llm_used": false
+    },
+    {
+      "question": "What does the retrieved literature report about plasmid-mediated antibiotic resistance in E. coli?",
+      "completed": true,
+      "papers_retrieved": 12,
+      "relevant_records_selected": null,
+      "selection_note": "No human or automated relevance screening was performed.",
+      "claims_produced": 8,
+      "citation_validation": {
+        "verified": 8,
+        "failed": 0
+      },
+      "unsupported_or_uncertain_claims": 8,
+      "errors": [],
+      "retries": "NCBI request retries are bounded at 3; exact count is not exposed",
+      "approx_seconds": 39.53,
+      "api_usage_or_cost": "Not returned by provider; PubMed API calls are unauthenticated unless NCBI_API_KEY is configured.",
+      "report": "reports/research_20261026_141119.md",
+      "llm_used": false
+    },
+    {
+      "question": "What are the limitations of methods used to detect antibiotic resistance?",
+      "completed": true,
+      "papers_retrieved": 9,
+      "relevant_records_selected": null,
+      "selection_note": "No human or automated relevance screening was performed.",
+      "claims_produced": 8,
+      "citation_validation": {
+        "verified": 8,
+        "failed": 0
+      },
+      "unsupported_or_uncertain_claims": 8,
+      "errors": [],
+      "retries": "NCBI request retries are bounded at 3; exact count is not exposed",
+      "approx_seconds": 21.53,
+      "api_usage_or_cost": "Not returned by provider; PubMed API calls are unauthenticated unless NCBI_API_KEY is configured.",
+      "report": "reports/research_20261026_141159.md",
+      "llm_used": false
+    },
+    {
+      "question": "What can be concluded about a narrowly specified resistance mechanism when only a small number of relevant publications are retrieved?",
+      "completed": true,
+      "papers_retrieved": 12,
+      "relevant_records_selected": null,
+      "selection_note": "No human or automated relevance screening was performed.",
+      "claims_produced": 8,
+      "citation_validation": {
+        "verified": 8,
+        "failed": 0
+      },
+      "unsupported_or_uncertain_claims": 8,
+      "errors": [],
+      "retries": "NCBI request retries are bounded at 3; exact count is not exposed",
+      "approx_seconds": 54.34,
+      "api_usage_or_cost": "Not returned by provider; PubMed API calls are unauthenticated unless NCBI_API_KEY is configured.",
+      "report": "reports/research_20261026_141220.md",
+      "llm_used": false
+    }
+  ]
+}

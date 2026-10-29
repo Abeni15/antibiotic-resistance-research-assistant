@@ -1,0 +1,443 @@
+{
+  "question": "What are the major mechanisms of antibiotic resistance in Escherichia coli?",
+  "plan": {
+    "subquestions": [
+      "What are the major mechanisms of antibiotic resistance in Escherichia coli?"
+    ],
+    "queries": [
+      "\"Escherichia coli\" antibiotic resistance \"beta-lactamase\"",
+      "\"Escherichia coli\" antibiotic resistance \"efflux pump\"",
+      "\"Escherichia coli\" antibiotic resistance \"porin permeability\"",
+      "\"Escherichia coli\" antibiotic resistance \"plasmid resistance\""
+    ]
+  },
+  "queries": [
+    "\"Escherichia coli\" antibiotic resistance \"beta-lactamase\"",
+    "\"Escherichia coli\" antibiotic resistance \"efflux pump\"",
+    "\"Escherichia coli\" antibiotic resistance \"porin permeability\"",
+    "\"Escherichia coli\" antibiotic resistance \"plasmid resistance\""
+  ],
+  "papers": [
+    {
+      "pmid": "34490146",
+      "title": "Antibiotic Resistance Pattern of Extended Spectrum Beta Lactamase Producing Escherichia coli Isolated From Patients With Urinary Tract Infection in Morocco.",
+      "authors": [
+        "Mohamed Kettani Halabi",
+        "Fatima Azzahra Lahlou",
+        "Idrissa Diawara",
+        "Younes El Adouzi",
+        "Rabiaa Marnaoui",
+        "Rachid Benmessaoud",
+        "Imane Smyej"
+      ],
+      "year": "2021",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "abstract": "Extended-spectrum β-lactamases producing Escherichia coli (ESBL-EC) lend resistance to most β-lactam antibiotics. Because of limited treatment options, ESBL-EC infections are generally more difficult to treat, leading to higher hospital costs, reduced rates of microbiological and clinical responses, and a threat to the patient's life. This study aimed to determine the antibiotic resistance pattern of ESBL-EC isolated from patients with urinary tract infection in Morocco. This retrospective laboratory-based study was conducted at Cheikh Khalifa International University Hospital, Casablanca, from January 2016 to June 2019. A total of 670 urine samples were collected from urinary tract infection patients and processed by standard microbiological methods. In vitro susceptibility testing to different antibiotics of all identified isolates of Escherichia coli (E. coli) was performed following Kirby-Bauer's disc diffusion method on Mueller-Hinton Agar according to the EUCAST standards. The reviewing of ESBL-EC was confirmed by the appearance of a characteristically shaped zone referred to as a \"champagne cork\" using the Combined Disk Test. Among a total of 438 E. coli isolated from nonrepetitive urine samples, two hundred fifty-nine (59%) were ESBL-EC, of which 200 (77%) were isolated from adult patients (over the age of 50) and the majority were female. All ESBL-EC isolates were resistant to third-generation cephalosporin and quinolones and sensitive to carbapenem and fosfomycin. Knowledge of antimicrobial resistance patterns in ESBL-EC, the major pathogen associated with urinary tract infection, is indispensable as a guide in choosing empirical antimicrobial treatment.",
+      "doi": "10.3389/fcimb.2021.720701",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34490146/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"beta-lactamase\"",
+      "retrieved_at": "2026-10-26T11:09:15.330697+00:00"
+    },
+    {
+      "pmid": "35841230",
+      "title": "Antibiotic resistance in the invasive bacteria Escherichia coli.",
+      "authors": [
+        "Viera Lovayová",
+        "Katarína Čurová",
+        "Vladimír Hrabovský",
+        "Mária Nagyová",
+        "Leonard Siegfried",
+        "Annamaria Toporová",
+        "Kvetoslava Rimárová",
+        "Štefánia Andraščíková"
+      ],
+      "year": "2022",
+      "journal": "Central European journal of public health",
+      "abstract": "The beta-lactamases with extended spectrum of activity (ESBL) are medically one of the most important group of enzymes. Another group of beta-lactamases representing of Enterobacteriaceae is group of the AmpC-type cephalosporinases. The presented study provides identification and determination of the spectrum of resistance against different and clinically used antimicrobial drugs in the clinical isolates of Escherichia coli. These isolates had origin in different departments of the L. Pasteur University Hospital in Košice. The goal was the detection of beta-lactamase production with extended-spectrum effect and testing of AmpC-type cephalosporinases by several phenotypic tests in clinical isolates. MALDI-TOF MS analysis was performed on a Microflex MALDI Biotyper. Samples were positively tested for ESBL with the use of the disc diffusion method. PCR were performed with a series of primers designed for the detection of Ambler class A, B and C beta-lactamase genes. For all 485 isolates, we determined the production of ESBL, which we detected in 166 E. coli isolates, which represents a 34.2% prevalence of ESBL production. It is clear from the results that the prevalence of ESBL-producing E. coli out of the total number of E. coli investigated reached 34.2%. In the monitored period, we confirmed at least one resistance gene from 485 E. coli in 188 positive isolates. We describe a complex ESBL epidemiology. The study revealed a high rate of ESBL-producing E. coli isolates; blaTEM and blaSHV enzymes dominated in ESBL-positive E. coli isolates in the L. Pasteur University Hospital in Košice.",
+      "doi": "10.21101/cejph.a7384",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35841230/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"beta-lactamase\"",
+      "retrieved_at": "2026-10-26T11:09:15.330697+00:00"
+    },
+    {
+      "pmid": "38638826",
+      "title": "A review of the mechanisms that confer antibiotic resistance in pathotypes of E. coli.",
+      "authors": [
+        "Sina Nasrollahian",
+        "Jay P Graham",
+        "Mehrdad Halaji"
+      ],
+      "year": "2024",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "abstract": "The dissemination of antibiotic resistance in Escherichia coli poses a significant threat to public health worldwide. This review provides a comprehensive update on the diverse mechanisms employed by E. coli in developing resistance to antibiotics. We primarily focus on pathotypes of E. coli (e.g., uropathogenic E. coli) and investigate the genetic determinants and molecular pathways that confer resistance, shedding light on both well-characterized and recently discovered mechanisms. The most prevalent mechanism continues to be the acquisition of resistance genes through horizontal gene transfer, facilitated by mobile genetic elements such as plasmids and transposons. We discuss the role of extended-spectrum β-lactamases (ESBLs) and carbapenemases in conferring resistance to β-lactam antibiotics, which remain vital in clinical practice. The review covers the key resistant mechanisms, including: 1) Efflux pumps and porin mutations that mediate resistance to a broad spectrum of antibiotics, including fluoroquinolones and aminoglycosides; 2) adaptive strategies employed by E. coli, including biofilm formation, persister cell formation, and the activation of stress response systems, to withstand antibiotic pressure; and 3) the role of regulatory systems in coordinating resistance mechanisms, providing insights into potential targets for therapeutic interventions. Understanding the intricate network of antibiotic resistance mechanisms in E. coli is crucial for the development of effective strategies to combat this growing public health crisis. By clarifying these mechanisms, we aim to pave the way for the design of innovative therapeutic approaches and the implementation of prudent antibiotic stewardship practices to preserve the efficacy of current antibiotics and ensure a sustainable future for healthcare.",
+      "doi": "10.3389/fcimb.2024.1387497",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38638826/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"efflux pump\"",
+      "retrieved_at": "2026-10-26T11:09:17.255686+00:00"
+    },
+    {
+      "pmid": "33468485",
+      "title": "Limited Multidrug Resistance Efflux Pump Overexpression among Multidrug-Resistant Escherichia coli Strains of ST131.",
+      "authors": [
+        "Johannes Camp",
+        "Sabine Schuster",
+        "Martina Vavra",
+        "Tobias Schweigger",
+        "John W A Rossen",
+        "Sandra Reuter",
+        "Winfried V Kern"
+      ],
+      "year": "2021",
+      "journal": "Antimicrobial agents and chemotherapy",
+      "abstract": "Gram-negative bacteria partly rely on efflux pumps to facilitate growth under stressful conditions and to increase resistance to a wide variety of commonly used drugs. In recent years, Escherichia coli sequence type 131 (ST131) has emerged as a major cause of extraintestinal infection frequently exhibiting a multidrug resistance (MDR) phenotype. The contribution of efflux to MDR in emerging E. coli MDR clones, however, is not well studied. We characterized strains from an international collection of clinical MDR E. coli isolates by MIC testing with and without the addition of the AcrAB-TolC efflux inhibitor 1-(1-naphthylmethyl)-piperazine (NMP). MIC data for 6 antimicrobial agents and their reversion by NMP were analyzed by principal-component analysis (PCA). PCA revealed a group of 17 MDR E. coli isolates (n = 34) exhibiting increased susceptibility to treatment with NMP, suggesting an enhanced contribution of efflux pumps to antimicrobial resistance in these strains (termed enhanced efflux phenotype [EEP] strains). Only 1/17 EEP strains versus 12/17 non-EEP MDR strains belonged to the ST131 clonal group. Whole-genome sequencing revealed marked differences in efflux-related genes between EEP and control strains, with the majority of notable amino acid substitutions occurring in AcrR, MarR, and SoxR. Quantitative reverse transcription-PCR (qRT-PCR) of multiple efflux-related genes showed significant overexpression of the AcrAB-TolC system in EEP strains, whereas in the remaining strains, we found enhanced expression of alternative efflux proteins. We conclude that a proportion of MDR E. coli strains exhibit an EEP, which is linked to an overexpression of the AcrAB-TolC efflux pump and a distinct array of genomic variations. Members of ST131, although highly successful, are less likely to exhibit the EEP.",
+      "doi": "10.1128/AAC.01735-20",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33468485/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"efflux pump\"",
+      "retrieved_at": "2026-10-26T11:09:17.255686+00:00"
+    },
+    {
+      "pmid": "41286116",
+      "title": "Metabolic control of porin permeability influences antibiotic resistance in Escherichia coli.",
+      "authors": [
+        "Santiago E Caño Muñiz",
+        "Stephen Trigg",
+        "Georgeos Hardo",
+        "Anja Hagting",
+        "Ieuan E Evans",
+        "Christopher Ruis",
+        "Ali F Alsulami",
+        "David Summers",
+        "Felicity Crawshay-Williams",
+        "Tom L Blundell",
+        "Lucas Boeck",
+        "Somenath Bakshi",
+        "R Andres Floto"
+      ],
+      "year": "2025",
+      "journal": "Nature microbiology",
+      "abstract": "Porins mediate the passage of hydrophilic nutrients and antibiotics across the outer membrane but might contribute to proton leak from the periplasm, suggesting that their conductance could be regulated. Here we show, using single-cell imaging, that porin permeability in Escherichia coli is controlled by changes in periplasmic H+ and K+ concentration. Conductance through porins increases with low periplasmic H+ caused by starvation, promoting nutrient uptake, and decreases with periplasmic acidification during growth in lipid media, limiting proton loss. High metabolic activity during growth in glucose media, however, activates the inner membrane voltage-gated potassium channel, Kch, increasing periplasmic potassium and enhancing porin permeability to dissipate reactive oxygen species. This metabolic control of porin permeability explains the observed increase in ciprofloxacin resistance of bacteria catabolizing lipids and clarifies the impact of mutations in central metabolism genes on drug resistance, identifying Kch as a therapeutic target to improve bacterial killing by antibiotics.",
+      "doi": "10.1038/s41564-025-02175-5",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41286116/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"porin permeability\"",
+      "retrieved_at": "2026-10-26T11:09:19.577683+00:00"
+    },
+    {
+      "pmid": "30323356",
+      "title": "Fine-tuning carbapenem resistance by reducing porin permeability of bacteria activated in the selection process of conjugation.",
+      "authors": [
+        "Hoi-Kuan Kong",
+        "Qing Pan",
+        "Wai-U Lo",
+        "Xuan Liu",
+        "Carmen O K Law",
+        "Ting-Fung Chan",
+        "Pak-Leung Ho",
+        "Terrence Chi-Kong Lau"
+      ],
+      "year": "2018",
+      "journal": "Scientific reports",
+      "abstract": "Antibiotic resistance is an emerging public health issue. Plasmids are one of the popular carriers to disseminate resistance genes among pathogens. However, the response of plasmid-carrying bacteria to antibiotic treatment and how these bacteria evolve to increase their resistance remain elusive. In this study, we conjugated plasmid pNDM-HK to E. coli J53 recipient cells and selected survivors using different concentrations of the broad spectrum antibiotic meropenem. After selection, transconjugants conferred varying minimum inhibitory concentrations with respect to carbapenems. We sequenced and compared the transcriptomes of transconjugants that exhibited distinct carbapenem susceptibilities, and found that the loss of outer membrane proteins led to antibiotic resistance. Moreover, we identified a novel mutation, G63S, in transcription factor OmpR which moderates the expression of outer membrane proteins. The loss of porins was due to incapability of phosphorylation, which is essential for porin transcription and carbapenem resistance. We also characterized other genes that are regulated by ompR in this mutant, which contributed to bacterial antibiotic resistance. Overall, our studies suggest antibiotic pressure after conjugation might be an alternative pathway to promote antimicrobial resistance.",
+      "doi": "10.1038/s41598-018-33568-8",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30323356/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"porin permeability\"",
+      "retrieved_at": "2026-10-26T11:09:19.577683+00:00"
+    },
+    {
+      "pmid": "25351426",
+      "title": "Antibiotic resistance correlates with transmission in plasmid evolution.",
+      "authors": [
+        "Paul E Turner",
+        "Elizabeth S C P Williams",
+        "Chijioke Okeke",
+        "Vaughn S Cooper",
+        "Siobain Duffy",
+        "John E Wertz"
+      ],
+      "year": "2014",
+      "journal": "Evolution; international journal of organic evolution",
+      "abstract": "Conjugative (horizontally transmissible) plasmids are autonomous replicators, whose \"self-interests\" do not necessarily overlap with those of their hosts. This situation causes plasmids and bacteria to sometimes experience differing selection pressures. Escherichia coli plasmid pB15 contains genes for resistance to several antibiotics, including tetracycline. When plasmid-bearing cells were experimentally evolved in the laboratory, changes in resistance level in the unselected tetracycline marker coincided with changes in plasmid rates of vertical versus horizontal transmission. Here, we used minimum inhibitory assays that measure resistance levels as quantitative traits to determine phenotypic correlations among plasmid characters and to estimate divergence among plasmid lineages. Results suggested that plasmid-level evolution led to formation of two phenotypically dissimilar groups: virulent (highly infectious) and avirulent (weakly infectious) plasmids. In contrast, measures of carbon-source utilization, and fitness assays relative to a common competitor revealed that bacterial hosts generally converged in phenotypic performance, despite divergence among their associated plasmids. Preliminary sequence analyses suggested that divergence in plasmid conjugation was due to altered configurations of a shufflon region (a site-specific recombination system), where genetic rearrangements affect conjugative ability. Furthermore, we proposed that correlated resistance and transmission in pB15 derivatives were caused by a tetracycline-resistance transposon inserted into a transfer operon, allowing transcription from its promoter to simultaneously affect both plasmid resistance and transmission.",
+      "doi": "10.1111/evo.12537",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/25351426/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"plasmid resistance\"",
+      "retrieved_at": "2026-10-26T11:09:36.512569+00:00"
+    },
+    {
+      "pmid": "29519517",
+      "title": "Longitudinal study of Escherichia coli plasmid resistance to extended-spectrum cephalosporins in free-range broilers.",
+      "authors": [
+        "Sandrine Baron",
+        "Laetitia Le Devendec",
+        "Fabrice Touzain",
+        "Eric Jouy",
+        "Pierrick Lucas",
+        "Claire de Boisséson",
+        "Emeline Larvor",
+        "Isabelle Kempf"
+      ],
+      "year": "2018",
+      "journal": "Veterinary microbiology",
+      "abstract": "Resistance to extended-spectrum cephalosporins (ESCs) is mostly borne by conjugative plasmids. The aim of the present study was to evaluate the characteristics and diversity of ESC resistance plasmids in Escherichia coli from different free-range broiler flocks in France, and their persistence in flocks during rearing. Two hatcheries were selected. Faecal samples from 11 flocks were collected from before their arrival on the broiler production farm up to their slaughter at the end of the rearing period. A selection of 25 E. coli isolates obtained at different times from different flocks but all harbouring an ESC resistance gene was characterised. The plasmids coding for ESC resistance were sequenced using Mi-seq Illumina technology or the ion proton system (Ion Torrent). Ten IncI1 ST12 plasmids carried the blaCMY-2 gene, and most of them had no other resistance genes. All blaCMY-2 plasmids were obtained from day-old to 7-day-old chicks from four flocks hatched at the same hatchery and sent to three different farms. Sequence comparisons showed identity percentages higher than 99%. Fifteen IncI1 ST3 plasmids were obtained from day-old to 77-day-old broilers from seven flocks on six farms. These plasmids harboured the blaCTX-M-1 gene, and most also had the tet(A) and sul2 genes, with sequence identity higher than 99%. For both types of plasmid, very high identity percentages were also obtained with published sequences of plasmids isolated from broilers in other countries or from other animal species. Thus, unlike the IncI1 ST12 blaCMY-2 plasmids, the epidemic nature of the IncI1 ST3 blaCTX-M-1 plasmids in the French poultry production makes it difficult to determine the origin of a contamination which may persist for weeks in a flock.",
+      "doi": "10.1016/j.vetmic.2018.01.012",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/29519517/",
+      "query": "\"Escherichia coli\" antibiotic resistance \"plasmid resistance\"",
+      "retrieved_at": "2026-10-26T11:09:36.512569+00:00"
+    }
+  ],
+  "claims": [
+    {
+      "text": "Retrieved abstract reports: Extended-spectrum β-lactamases producing Escherichia coli (ESBL-EC) lend resistance to most β-lactam antibiotics.",
+      "topic": "query term: beta-lactam",
+      "source_ids": [
+        "34490146"
+      ],
+      "supporting_passages": {
+        "34490146": "Extended-spectrum β-lactamases producing Escherichia coli (ESBL-EC) lend resistance to most β-lactam antibiotics."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: The beta-lactamases with extended spectrum of activity (ESBL) are medically one of the most important group of enzymes.",
+      "topic": "query term: beta-lactam",
+      "source_ids": [
+        "35841230"
+      ],
+      "supporting_passages": {
+        "35841230": "The beta-lactamases with extended spectrum of activity (ESBL) are medically one of the most important group of enzymes."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: The dissemination of antibiotic resistance in Escherichia coli poses a significant threat to public health worldwide.",
+      "topic": "query term: efflux",
+      "source_ids": [
+        "38638826"
+      ],
+      "supporting_passages": {
+        "38638826": "The dissemination of antibiotic resistance in Escherichia coli poses a significant threat to public health worldwide."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Gram-negative bacteria partly rely on efflux pumps to facilitate growth under stressful conditions and to increase resistance to a wide variety of commonly used drugs.",
+      "topic": "query term: efflux",
+      "source_ids": [
+        "33468485"
+      ],
+      "supporting_passages": {
+        "33468485": "Gram-negative bacteria partly rely on efflux pumps to facilitate growth under stressful conditions and to increase resistance to a wide variety of commonly used drugs."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Porins mediate the passage of hydrophilic nutrients and antibiotics across the outer membrane but might contribute to proton leak from the periplasm, suggesting that their …",
+      "topic": "query term: porin",
+      "source_ids": [
+        "41286116"
+      ],
+      "supporting_passages": {
+        "41286116": "Porins mediate the passage of hydrophilic nutrients and antibiotics across the outer membrane but might contribute to proton leak from the periplasm, suggesting that their"
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Antibiotic resistance is an emerging public health issue.",
+      "topic": "query term: porin",
+      "source_ids": [
+        "30323356"
+      ],
+      "supporting_passages": {
+        "30323356": "Antibiotic resistance is an emerging public health issue."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Conjugative (horizontally transmissible) plasmids are autonomous replicators, whose \"self-interests\" do not necessarily overlap with those of their hosts.",
+      "topic": "query term: plasmid",
+      "source_ids": [
+        "25351426"
+      ],
+      "supporting_passages": {
+        "25351426": "Conjugative (horizontally transmissible) plasmids are autonomous replicators, whose \"self-interests\" do not necessarily overlap with those of their hosts."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    },
+    {
+      "text": "Retrieved abstract reports: Resistance to extended-spectrum cephalosporins (ESCs) is mostly borne by conjugative plasmids.",
+      "topic": "query term: plasmid",
+      "source_ids": [
+        "29519517"
+      ],
+      "supporting_passages": {
+        "29519517": "Resistance to extended-spectrum cephalosporins (ESCs) is mostly borne by conjugative plasmids."
+      },
+      "evidence_category": "abstract statement",
+      "uncertainty": "Extracted passage; study design and full text not independently assessed.",
+      "limitations": [
+        "A single abstract does not establish prevalence or generality."
+      ]
+    }
+  ],
+  "validation": {
+    "ok": true,
+    "results": [
+      {
+        "claim_index": 0,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "34490146",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 1,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "35841230",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 2,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "38638826",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 3,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "33468485",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 4,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "41286116",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 5,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "30323356",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 6,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "25351426",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      },
+      {
+        "claim_index": 7,
+        "status": "verified_source_and_passage",
+        "reason": "Source/text check only; scientific entailment requires human review",
+        "checks": [
+          {
+            "source_id": "29519517",
+            "status": "verified_source_and_passage",
+            "reason": "Passage occurs in stored title/abstract after normalization"
+          }
+        ]
+      }
+    ]
+  },
+  "review": "LLM reviewer unavailable: OPENAI_API_KEY is not configured.",
+  "events": [
+    {
+      "agent": "Research Planner",
+      "input": "What are the major mechanisms of antibiotic resistance in Escherichia coli?",
+      "tools_called": [],
+      "output": "{\"subquestions\": [\"What are the major mechanisms of antibiotic resistance in Escherichia coli?\"], \"queries\": [\"\\\"Escherichia coli\\\" antibiotic resistance \\\"beta-lactamase\\\"\", \"\\\"Escherichia coli\\\" antibiotic resistance \\\"efflux pump\\\"\", \"\\\"Escherichia coli\\\" antibiotic resistance \\\"porin permeability\\\"\", \"\\\"Escherichia coli\\\" antibiotic resistance \\\"plasmid resistance\\\"\"]}"
+    },
+    {
+      "agent": "Literature Researcher",
+      "input": "['\"Escherichia coli\" antibiotic resistance \"beta-lactamase\"', '\"Escherichia coli\" antibiotic resistance \"efflux pump\"', '\"Escherichia coli\" antibiotic resistance \"porin permeability\"', '\"Escherichia coli\" antibiotic resistance \"plasmid resistance\"']",
+      "tools_called": [
+        "search_pubmed"
+      ],
+      "output": "8 PubMed records"
+    },
+    {
+      "agent": "Evidence Analyst",
+      "input": "8",
+      "tools_called": [],
+      "output": "8 verbatim abstract passages"
+    },
+    {
+      "agent": "Scientific Reviewer",
+      "input": "8",
+      "tools_called": [
+        "validate_evidence"
+      ],
+      "output": "No model review; credential absent"
+    }
+  ],
+  "llm_used": false,
+  "correction_rounds": 0,
+  "elapsed_seconds": 23.53
+}
